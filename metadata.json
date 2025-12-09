@@ -1,0 +1,8 @@
+{
+  "name": "PokeMorph AI",
+  "description": "Transform yourself into a Pokémon, generate high-quality Pokémon art, and analyze images with Gemini's vision capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
